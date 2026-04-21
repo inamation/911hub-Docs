@@ -10,3 +10,4 @@
   * [Regulatory & Compliance](regulatory.md)
   * [API Reference](api-reference.md)
   * [Investor Summary](investor-summary.md)
+* [Research Briefings](research-briefings.md)
